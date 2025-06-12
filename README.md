@@ -6,8 +6,8 @@ Welcome to Gadget Galaxy, your ultimate hub for exploring the coolest gadgets, s
 ![Poster](https://github.com/user-attachments/assets/359a126a-6105-40da-9553-de01a2d075a7)
 
 🛠️ Tech Stack:
--Flutter
--Dart
+-Flutter <br>
+-Dart <br>
 -Firebase
 
 ✨ Features You’ll Love:
@@ -28,7 +28,7 @@ Solve everyday problems or complex equations with Gadget Galaxy’s diverse coll
 ✔️ Regular updates with new features and tools
 ✔️ Easy-to-use, modern interface for all users
 
-📲 Download Gadget Galaxy Now & Unlock the Power of Smart Tools!
+📲 Download Gadget Galaxy Now & Unlock the Power of Smart Tools! <br>
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brightmindtechnology.gadgetgalaxy&pcampaignid=web_share)
 
 
