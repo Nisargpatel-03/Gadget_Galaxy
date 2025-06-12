@@ -31,9 +31,13 @@ Solve everyday problems or complex equations with Gadget Galaxy’s diverse coll
 📲 Download Gadget Galaxy Now & Unlock the Power of Smart Tools! <br>
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brightmindtechnology.gadgetgalaxy&pcampaignid=web_share)
 
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/0c2b94ec-2ebb-467e-aef0-44388fb93bad" alt="image1" width="250"/>
+  <img src="https://github.com/user-attachments/assets/477b8785-933b-4b14-a5de-9f67ed31ec3c" alt="image2" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3aba1714-6440-48fb-86a8-e65555c8ff02" alt="image3" width="250"/>
+</p>
 
-![image1](https://github.com/user-attachments/assets/0c2b94ec-2ebb-467e-aef0-44388fb93bad)
-![image2](https://github.com/user-attachments/assets/477b8785-933b-4b14-a5de-9f67ed31ec3c)
-![image3](https://github.com/user-attachments/assets/3aba1714-6440-48fb-86a8-e65555c8ff02)
-![image4](https://github.com/user-attachments/assets/598eb80f-e510-4375-aa18-990a89c9d466)
-![image5](https://github.com/user-attachments/assets/f659a1f5-51df-41eb-b638-a292a0c3be45)
+<p float="left">
+  <img src="https://github.com/user-attachments/assets/598eb80f-e510-4375-aa18-990a89c9d466" alt="image4" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f659a1f5-51df-41eb-b638-a292a0c3be45" alt="image5" width="250"/>
+</p>
