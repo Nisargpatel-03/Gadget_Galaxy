@@ -10,6 +10,11 @@ Welcome to Gadget Galaxy, your ultimate hub for exploring the coolest gadgets, s
 -Dart <br>
 -Firebase <br>
 
+⚠️ Source Code Notice
+
+> This repository is for **showcase purposes only**.  
+> The source code is **private** and not available for public distribution.
+
 ✨ Features You’ll Love: <br>
 ✅ Gadget Explorer – Stay updated with the latest tech gadgets and innovations. <br>
 ✅ Smart Tools – Essential utilities like unit converters, currency calculators, an advanced navigation compass with 20+ unique faces, and more. <br>
