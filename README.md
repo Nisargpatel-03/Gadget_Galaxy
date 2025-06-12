@@ -41,7 +41,7 @@ Solve everyday problems or complex equations with Gadget Galaxy’s diverse coll
   </a>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/0c2b94ec-2ebb-467e-aef0-44388fb93bad" alt="image1" width="180"/>
   <img src="https://github.com/user-attachments/assets/477b8785-933b-4b14-a5de-9f67ed31ec3c" alt="image2" width="180"/>
   <img src="https://github.com/user-attachments/assets/3aba1714-6440-48fb-86a8-e65555c8ff02" alt="image3" width="180"/>
