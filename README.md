@@ -29,7 +29,8 @@ Solve everyday problems or complex equations with Gadget Galaxy’s diverse coll
 ✔️ Easy-to-use, modern interface for all users
 
 📲 Download Gadget Galaxy Now & Unlock the Power of Smart Tools!
-[![Get it on Google Play](https://play.google.com/store/apps/details?id=com.brightmindtechnology.gadgetgalaxy&pcampaignid=web_share)
+[![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brightmindtechnology.gadgetgalaxy&pcampaignid=web_share)
+
 
 ![image1](https://github.com/user-attachments/assets/0c2b94ec-2ebb-467e-aef0-44388fb93bad)
 ![image2](https://github.com/user-attachments/assets/477b8785-933b-4b14-a5de-9f67ed31ec3c)
