@@ -1,4 +1,4 @@
-# Gadget_Galaxy_App
+# Gadget_Galaxy
 Gadget Galaxy – Explore, Learn & Calculate! 🚀 <br>
 🔍 Discover a World of Gadgets & Tools! <br>
 Welcome to Gadget Galaxy, your ultimate hub for exploring the coolest gadgets, smart tools, and a wide range of powerful calculators! Whether you're a tech enthusiast, student, or professional, this app brings everything you need into one place. <br>
