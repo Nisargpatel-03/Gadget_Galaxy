@@ -1,32 +1,32 @@
 # Gadget_Galaxy_App
-Gadget Galaxy – Explore, Learn & Calculate! 🚀
-🔍 Discover a World of Gadgets & Tools!
-Welcome to Gadget Galaxy, your ultimate hub for exploring the coolest gadgets, smart tools, and a wide range of powerful calculators! Whether you're a tech enthusiast, student, or professional, this app brings everything you need into one place.
+Gadget Galaxy – Explore, Learn & Calculate! 🚀 <br>
+🔍 Discover a World of Gadgets & Tools! <br>
+Welcome to Gadget Galaxy, your ultimate hub for exploring the coolest gadgets, smart tools, and a wide range of powerful calculators! Whether you're a tech enthusiast, student, or professional, this app brings everything you need into one place. <br>
 
-![Poster](https://github.com/user-attachments/assets/359a126a-6105-40da-9553-de01a2d075a7)
+![Poster](https://github.com/user-attachments/assets/359a126a-6105-40da-9553-de01a2d075a7) <br>
 
-🛠️ Tech Stack:
+🛠️ Tech Stack: <br>
 -Flutter <br>
 -Dart <br>
--Firebase
+-Firebase <br>
 
-✨ Features You’ll Love:
-✅ Gadget Explorer – Stay updated with the latest tech gadgets and innovations.
-✅ Smart Tools – Essential utilities like unit converters, currency calculators, an advanced navigation compass with 20+ unique faces, and more.
-✅ Powerful Calculators – Financial, health, and engineering calculators for all your needs.
-✅ User-Friendly & Modern Interface – Sleek, easy-to-use design for seamless navigation.
+✨ Features You’ll Love: <br>
+✅ Gadget Explorer – Stay updated with the latest tech gadgets and innovations. <br>
+✅ Smart Tools – Essential utilities like unit converters, currency calculators, an advanced navigation compass with 20+ unique faces, and more. <br>
+✅ Powerful Calculators – Financial, health, and engineering calculators for all your needs. <br>
+✅ User-Friendly & Modern Interface – Sleek, easy-to-use design for seamless navigation. <br>
 
-🔢 From Simple to Advanced Calculators!
-Solve everyday problems or complex equations with Gadget Galaxy’s diverse collection of calculators:
-📏 Unit Converter – Convert measurements effortlessly.
-💰 Financial Calculator – GST, SIP and more!
-⚙️ Engineering Calculator – Perform accurate technical calculations.
-❤️ Health Calculators – BMI and more!
+🔢 From Simple to Advanced Calculators! <br>
+Solve everyday problems or complex equations with Gadget Galaxy’s diverse collection of calculators: <br>
+📏 Unit Converter – Convert measurements effortlessly. <br>
+💰 Financial Calculator – GST, SIP and more! <br>
+⚙️ Engineering Calculator – Perform accurate technical calculations. <br>
+❤️ Health Calculators – BMI and more! <br>
 
-🚀 Why Choose Gadget Galaxy?
-✔️ One-stop solution for gadgets, tools, and calculators
-✔️ Regular updates with new features and tools
-✔️ Easy-to-use, modern interface for all users
+🚀 Why Choose Gadget Galaxy? <br>
+✔️ One-stop solution for gadgets, tools, and calculators <br>
+✔️ Regular updates with new features and tools <br>
+✔️ Easy-to-use, modern interface for all users <br>
 
 📲 Download Gadget Galaxy Now & Unlock the Power of Smart Tools! <br>
 [![Get it on Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.brightmindtechnology.gadgetgalaxy&pcampaignid=web_share)
